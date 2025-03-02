@@ -9,7 +9,7 @@ import './styles/globals.css'
 import './styles/markdown.scss'
 
 export const metadata = {
-  title: 'Deekseek',
+  title: 'Deepseek',
 }
 
 export const viewport: Viewport = {
